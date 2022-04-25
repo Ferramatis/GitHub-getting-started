@@ -1,3 +1,3 @@
 # INTRODUCTION
 
-this is an introduction of Github.
+this is an introduction of Github!
